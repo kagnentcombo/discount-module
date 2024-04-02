@@ -1,0 +1,6 @@
+id,category,discount,name
+1,Coupon,"50 THB","Fixed amount"
+2,Coupon," 10%","Percentage discount"
+3,"On Top","15% Off on dress","Percentage discount by item category"
+4,"On Top","68 Points","Discount by points"
+5,Seasonal,"40 THB at every 300 THB","Special campaigns"

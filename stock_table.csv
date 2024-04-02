@@ -1,0 +1,10 @@
+id,care,component,detail,name,photo,price,sex,size,source,type
+4,test,test,test,dress1,...,500.00,women,xl,test,dress
+5,test,test,test,dress2,...,600.00,women,xl,test,dress
+6,test,test,test,dress3,...,700.00,women,xl,test,dress
+7,test,test,test,dress4,...,800.00,women,xl,test,dress
+8,test,test,test,dress5,...,800.00,men,xl,test,dress
+9,test,test,test,shirt1,...,800.00,women,xl,test,shirt
+10,test,test,test,shirt1,...,800.00,men,xl,test,shirt
+11,test,test,test,shirt2,...,700.00,men,xl,test,shirt
+12,test,test,test,jeans1,...,600.00,men,xl,test,jeans
