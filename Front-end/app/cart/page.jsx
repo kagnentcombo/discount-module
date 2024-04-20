@@ -109,7 +109,7 @@ export default function CartPage() {
 
   return (
     <Layout themeColor={"#000"} bgColor={"bg-light"}>
-      <Container style={{ marginTop: "200px" }}>
+      <Container style={{ marginTop: "250px" }}>
         <p> ตะกร้า({cartItems.length})</p>
         <Row style={{ marginBottom: "200px" }}>
           {cartItems.map((item, index) => (
